@@ -1,0 +1,95 @@
+Date: 16/3/2023
+Time: 23:35
+Group ID: TELEFONE ESTAGIÁRIO
+Message: Ola ESTAGIÁRIO, foi marcado com sucesso na ['SEGUNDA 8h'] no SEGUNDA 8h
+--------------------
+Date: 16/3/2023
+Time: 23:35
+Group ID: F122gq64gja7wONGzCReGs
+Message: Ola Estagiario teste, foi marcado com sucesso na ['SEGUNDA 8h'] no Consultório 1
+--------------------
+Date: 16/3/2023
+Time: 23:36
+Group ID: F122gq64gja7wONGzCReGs
+Message: Ola Estagiario teste, foi marcado com sucesso na ['SEGUNDA 8h'] no Consultório 2
+--------------------
+Date: 16/3/2023
+Time: 23:36
+Group ID: F122gq64gja7wONGzCReGs
+Message: Ola Estagiario teste, foi marcado com sucesso na ['SEGUNDA 8h'] no Consultório 3
+--------------------
+Date: 16/3/2023
+Time: 23:37
+Group ID: F122gq64gja7wONGzCReGs
+Message: Ola Estagiario teste, foi marcado com sucesso na ['SEGUNDA 8h'] no Consultório familiar 4
+--------------------
+Date: 16/3/2023
+Time: 23:38
+Group ID: F122gq64gja7wONGzCReGs
+Message: Ola Estagiario teste, foi marcado com sucesso na ['SEGUNDA 8h'] no Consultório 5
+--------------------
+Date: 16/3/2023
+Time: 23:38
+Group ID: F122gq64gja7wONGzCReGs
+Message: Ola Estagiario teste, foi marcado com sucesso na ['SEGUNDA 8h'] no Consultório infantil 6
+--------------------
+Date: 16/3/2023
+Time: 23:42
+Group ID: TELEFONE ESTAGIÁRIO
+Message: Ola ESTAGIÁRIO, foi marcado com sucesso na ['SEGUNDA 8h'] no SEGUNDA 8h paciente PACIENTE / IDADE
+--------------------
+Date: 16/3/2023
+Time: 23:43
+Group ID: F122gq64gja7wONGzCReGs
+Message: Ola Estagiario teste, foi marcado com sucesso na ['SEGUNDA 8h'] no Consultório 1 paciente Tonhao
+--------------------
+Date: 16/3/2023
+Time: 23:44
+Group ID: F122gq64gja7wONGzCReGs
+Message: Ola Estagiario teste, foi marcado com sucesso na ['SEGUNDA 8h'] no Consultório 2 paciente fatima
+--------------------
+Date: 16/3/2023
+Time: 23:44
+Group ID: F122gq64gja7wONGzCReGs
+Message: Ola Estagiario teste, foi marcado com sucesso na ['SEGUNDA 8h'] no Consultório 3 paciente bernardo
+--------------------
+Date: 16/3/2023
+Time: 23:45
+Group ID: F122gq64gja7wONGzCReGs
+Message: Ola Estagiario teste, foi marcado com sucesso na ['SEGUNDA 8h'] no Consultório familiar 4 paciente toinha
+--------------------
+Date: 16/3/2023
+Time: 23:46
+Group ID: F122gq64gja7wONGzCReGs
+Message: Ola Estagiario teste, foi marcado com sucesso na ['SEGUNDA 8h'] no Consultório 5 paciente claudio
+--------------------
+Date: 16/3/2023
+Time: 23:46
+Group ID: F122gq64gja7wONGzCReGs
+Message: Ola Estagiario teste, foi marcado com sucesso na ['SEGUNDA 8h'] no Consultório infantil 6 paciente tiago
+--------------------
+Date: 16/3/2023
+Time: 23:47
+Group ID: F122gq64gja7wONGzCReGs
+Message: Ola Estagiario teste, foi marcado com sucesso na ['SEGUNDA 8h'] no Consultório 7 paciente paiva
+--------------------
+Date: 16/3/2023
+Time: 23:48
+Group ID: F122gq64gja7wONGzCReGs
+Message: Ola Estagiario teste, foi marcado com sucesso na ['SEGUNDA 8h'] no Consultório 8 paciente ronildo
+--------------------
+Date: 16/3/2023
+Time: 23:48
+Group ID: F122gq64gja7wONGzCReGs
+Message: Ola Estagiario teste, foi marcado com sucesso na ['SEGUNDA 8h'] no sala de avaliação infantil paciente fabiola
+--------------------
+Date: 16/3/2023
+Time: 23:49
+Group ID: F122gq64gja7wONGzCReGs
+Message: Ola Estagiario teste, foi marcado com sucesso na ['SEGUNDA 8h'] no Sala de avaliação adulto paciente lucas
+--------------------
+Date: 16/3/2023
+Time: 23:50
+Group ID: TELEFONE ESTAGIÁRIO
+Message: Ola ESTAGIÁRIO, foi marcado com sucesso na ['SEGUNDA 8h', 'SEGUNDA 9h'] no SEGUNDA 9h paciente PACIENTE / IDADE
+--------------------
