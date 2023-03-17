@@ -20,5 +20,3 @@ for i in range(8, 22):
     quinta.append(modelo_quinta+str(i)+hora)
     sexta.append(modelo_sexta+str(i)+hora)
     sabado.append(modelo_sabado+str(i)+hora)
-
-print(segunda, terca, quarta, quinta, sexta, sabado)
